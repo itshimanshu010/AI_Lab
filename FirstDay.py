@@ -10,6 +10,7 @@ while x<=2:
   if x < 4:
       x=4;
 
+ 
  elif rno == 2:
   if y > 3:
       y=3;
